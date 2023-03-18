@@ -1,4 +1,4 @@
-Hello, everyone. I am delighted to see you here. I know it's not much, but this is the wordle game. You can watch it live by clicking on the following link:
+Hello, everyone. I am delighted to see you here. I know it's not much, but this is the wordle game. You can watch it live by clicking on the following link: https://lyudmilnikolov.github.io/wordle-clone/
 
 # Getting Started with Create React App
 
